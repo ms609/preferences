@@ -9,6 +9,8 @@
 // - modify it via the UI (e.g. via about:config in the browser); or
 // - set it within a user.js file in your profile.
 
+user_pref("extensions.zotero.translators.better-bibtex.skipFields",
+          "abstract,file,isbn,issn,keywords,langid,month,pmc,pmcid,pmid");
 user_pref("app.update.download.attempts", 0);
 user_pref("app.update.elevate.attempts", 0);
 user_pref("app.update.lastUpdateTime.addon-background-update-timer", 1649327611);
@@ -54,7 +56,6 @@ user_pref("extensions.zotero.translators.better-bibtex.citekeyFormat", "[auth][y
 user_pref("extensions.zotero.translators.better-bibtex.keyConflictPolicy", "change");
 user_pref("extensions.zotero.translators.better-bibtex.platform", "win");
 user_pref("extensions.zotero.translators.better-bibtex.quickCopyMode", "pandoc");
-user_pref("extensions.zotero.translators.better-bibtex.skipFields", "abstract,file,issn,keywords,langid,month");
 user_pref("extensions.zotero.useDataDir", true);
 user_pref("extensions.zoteroWinWordIntegration.installed", true);
 user_pref("extensions.zoteroWinWordIntegration.version", "6.0.0.SA.6.0.4");
