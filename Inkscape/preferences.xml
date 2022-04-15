@@ -125,8 +125,8 @@
          id="rect"
          style="fill:blue;"
          usecurrent="1"
-         width="158.617"
-         height="209.165" />
+         width="52.6924"
+         height="44.7087" />
       <eventcontext
          id="3dbox"
          style="stroke:none;stroke-linejoin:round;"
@@ -183,13 +183,15 @@
          style="stroke-width:1px;"
          usecurrent="1"
          average_all_sketches="1"
-         pressure="0" />
+         pressure="0"
+         freehand-mode="0" />
       <eventcontext
          id="pen"
          mode="drag"
          selcue="1"
          style="stroke-width:1px;"
-         usecurrent="1" />
+         usecurrent="1"
+         freehand-mode="0" />
     </group>
     <eventcontext
        id="calligraphic"
@@ -320,7 +322,7 @@
        font_sample="AaBbCcIiPpQq12369$€¢?.;/()"
        show_sample_in_list="1"
        use_svg2="1"
-       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33329983px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:pre;shape-inside:url(#rect82307);shape-padding:0;shape-margin:0;inline-size:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        selcue="1"
        align_mode="2" />
     <eventcontext
@@ -338,8 +340,8 @@
        live_outline="1"
        live_objects="1"
        show_helperpath="0"
-       x="427.686"
-       y="743.164"
+       x="202.118"
+       y="163.297"
        edit_clipping_paths="0"
        edit_masks="0" />
     <eventcontext
@@ -400,15 +402,18 @@
        usecurrent="1" />
     <group
        id="measure"
-       fontsize="10">
+       fontsize="10"
+       unit="cm"
+       scale="18.314"
+       precision="2">
       <group
          id="measure-start"
-         x="498.157"
-         y="819.537" />
+         x="858.09"
+         y="304.848" />
       <group
          id="measure-end"
-         x="475.529"
-         y="600.334" />
+         x="179.521"
+         y="261.943" />
     </group>
   </group>
   <group
@@ -530,7 +535,7 @@
   </group>
   <group
      id="colorselector"
-     page="0" />
+     page="4" />
   <group
      id="embedded">
     <group
@@ -539,7 +544,7 @@
        panel_mode="1"
        panel_ratio="50"
        panel_wrap="0"
-       palette="Echo Icon Theme Palette"
+       palette="Colourblind + default"
        panel_border="0" />
   </group>
   <group
@@ -555,9 +560,11 @@
        id="textandfont" />
     <group
        id="transformation"
-       applyseparately="0" />
+       applyseparately="0"
+       rotateCounterClockwise="1" />
     <group
-       id="align" />
+       id="align"
+       align-to="0" />
     <group
        id="xml"
        h="500"
@@ -575,7 +582,7 @@
     <group
        id="preferences"
        state="1"
-       page="24" />
+       page="15" />
     <group
        id="gradienteditor" />
     <group
@@ -597,7 +604,7 @@
        default="org.inkscape.output.svg.inkscape"
        append_extension="1"
        enable_preview="1"
-       path="C:\Users\pjjg18\GitHub\larva"
+       path="C:\Users\pjjg18\GitHub\Iotuba-ms\figures"
        use_current_dir="1" />
     <group
        id="save_copy"
@@ -613,7 +620,7 @@
        id="import"
        enable_preview="1"
        path="C:\Users\pjjg18\GitHub\Iotuba-ms\figures\"
-       ask="1"
+       ask="0"
        ask_svg="1"
        link="link"
        scale="auto"
@@ -824,7 +831,7 @@
        value="2" />
     <group
        id="transform"
-       stroke="1"
+       stroke="0"
        rectcorners="1"
        pattern="1"
        gradient="1" />
@@ -958,10 +965,12 @@
   <group
      id="extensions"
      org.inkscape.output.pdf.cairorenderer.PDFversion="PDF-1.5"
-     org.inkscape.input.gdkpixbuf.png.link="link" />
+     org.inkscape.input.gdkpixbuf.png.link="link"
+     org.inkscape.input.gdkpixbuf.tif.link="link"
+     org.inkscape.input.gdkpixbuf.tif.do_not_ask="1" />
   <group
      id="desktop"
-     style="text-anchor:end;text-align:end;font-size:14.66666667px;-inkscape-font-specification:'Arial Bold';font-family:Arial;font-weight:bold;fill:#6c7ed7;stroke-width:1.33333417;stroke-linecap:round;stop-color:#000000;-inkscape-stroke:none;stroke-linejoin:round">
+     style="text-anchor:end;text-align:end;font-size:13.33333333px;-inkscape-font-specification:Arial;font-family:Arial;fill:#b74d86;stroke-width:1.33333039;stroke-linecap:round;stop-color:#000000;-inkscape-stroke:none;stroke-linejoin:round;stroke:#333333">
     <group
        width="1080"
        height="1041"
