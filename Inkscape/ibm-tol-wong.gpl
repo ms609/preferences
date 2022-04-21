@@ -16,32 +16,32 @@ Columns: 27
 249 249 249  2.5% Grey #f9f9f9
 255 255 255  White #ffffff
 
-100 143 255 IBM Blue
-120 94 240 IBM Purple
-220 38 127  IBM Fuschia
-254 97 0 IBM Orange
-255 176 0 IBM Gold
+100 143 255 IBM Blue #648fff
+120 94 240 IBM Purple #785ef0
+220 38 127  IBM Fuschia #dc267f
+254 97 0 IBM Orange #fe6100
+255 176 0 IBM Gold #ffb000
 
-0 0 0 Black spacer
+255 255 255 White spacer
 255 255 255 White spacer
 
-51 34 136 Tol Ble
-17 119 51  Tol Green
-68 170 153  Tol Teal
-136 204 238 Tol Galazios
-221 204 119 Tol Beige
-204 102 119 Tol Pink
-170 68 153 Tol Fuschia
-136 34 85 Tol Mauve
+51 34 136 Tol Ble #332288
+17 119 51  Tol Green #117733
+68 170 153  Tol Teal #44aa99
+136 204 238 Tol Galazios #88ccee
+221 204 119 Tol Beige #ddcc77
+204 102 119 Tol Pink #cc6677
+170 68 153 Tol Fuschia #aa4499
+136 34 85 Tol Mauve #882255
 
-0 0 0 Black spacer
+255 255 255 White spacer
 255 255 255 White spacer
 
-0 0 0 Wong Black
-230 159 0 Wong Orange
-86 180 233 Wong Galazios
-0 158 115 Wong Green
-240 228 66 Wong Yellow
-0 114 178 Wong Ble
-213 94 0 Wong Vermillion
-204 121 167 Wong Pink
+0 0 0 Wong Black #000000
+230 159 0 Wong Orange #e69f00
+86 180 233 Wong Galazios #56b4e9
+0 158 115 Wong Green #009e73
+240 228 66 Wong Yellow #f0e442
+0 114 178 Wong Ble #0072b2
+213 94 0 Wong Vermillion #d55e00
+204 121 167 Wong Pink #cc79a7
