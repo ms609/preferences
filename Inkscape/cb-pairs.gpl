@@ -18,17 +18,24 @@ Columns: 6
 
 255 194 10 Pair 1a #ffc20a
 12 123 220 Pair 1b #0c7bdc
-153 79 0 Pair 2a
-0 108 209 Pair 2b
-225 190 106 Pair 3a
-64 176 166 Pair 3b
-230 97 0 Pair 4a
-93 58 155 Pair 4b
-26 255 26 Pair 5a
-75 0 146 Pair 5b
-254 254 98 Pair 6a
-211 95 183 Pair 6b
-0 90 181 Pair 7a
-220 50 32 Pair 7b
-26 133 255 Pair 8a
-212 17 89 Pair 8b
+255 255 255  White #ffffff
+153 79 0 Pair 2a #994f00
+0 108 209 Pair 2b #006cd1
+255 255 255  White #ffffff
+225 190 106 Pair 3a #e1be6a
+64 176 166 Pair 3b #40b0a6
+255 255 255  White #ffffff
+230 97 0 Pair 4a #e66100
+93 58 155 Pair 4b #5d3a9b
+255 255 255  White #ffffff
+26 255 26 Pair 5a #1aff1a
+75 0 146 Pair 5b #4b0092
+255 255 255  White #ffffff
+254 254 98 Pair 6a #fefe62
+211 95 183 Pair 6b #d35fb7
+255 255 255  White #ffffff
+0 90 181 Pair 7a #005ab5
+220 50 32 Pair 7b #dc3220
+255 255 255  White #ffffff
+26 133 255 Pair 8a #1a85ff
+212 17 89 Pair 8b #d41159
