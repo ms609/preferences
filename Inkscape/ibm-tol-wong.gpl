@@ -1,0 +1,47 @@
+GIMP Palette
+Name: IBM / Tol / Wong
+Columns: 27
+0   0   0  Black #000000
+26  26  26  90% Grey #1a1a1a
+51  51  51  80% Grey #333333
+77  77  77  70% Grey #4d4d4d
+102 102 102  60% Grey #666666
+128 128 128  50% Grey #808080
+153 153 153  40% Grey #999999
+179 179 179  30% Grey #b3b3b3
+204 204 204  20% Grey #cccccc
+230 230 230  10% Grey #e6e6e6
+236 236 236  7.5% Grey #ececec
+242 242 242  5% Grey #f2f2f2
+249 249 249  2.5% Grey #f9f9f9
+255 255 255  White #ffffff
+
+100 143 255 IBM Blue
+120 94 240 IBM Purple
+220 38 127  IBM Fuschia
+254 97 0 IBM Orange
+255 176 0 IBM Gold
+
+0 0 0 Black spacer
+255 255 255 White spacer
+
+51 34 136 Tol Ble
+17 119 51  Tol Green
+68 170 153  Tol Teal
+136 204 238 Tol Galazios
+221 204 119 Tol Beige
+204 102 119 Tol Pink
+170 68 153 Tol Fuschia
+136 34 85 Tol Mauve
+
+0 0 0 Black spacer
+255 255 255 White spacer
+
+0 0 0 Wong Black
+230 159 0 Wong Orange
+86 180 233 Wong Galazios
+0 158 115 Wong Green
+240 228 66 Wong Yellow
+0 114 178 Wong Ble
+213 94 0 Wong Vermillion
+204 121 167 Wong Pink

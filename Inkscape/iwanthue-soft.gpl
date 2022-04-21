@@ -1,0 +1,28 @@
+GIMP Palette
+Name: iwanthue cb-soft 10
+Columns: 5
+0   0   0  Black #000000
+26  26  26  90% Grey #1a1a1a
+51  51  51  80% Grey #333333
+77  77  77  70% Grey #4d4d4d
+102 102 102  60% Grey #666666
+128 128 128  50% Grey #808080
+153 153 153  40% Grey #999999
+179 179 179  30% Grey #b3b3b3
+204 204 204  20% Grey #cccccc
+230 230 230  10% Grey #e6e6e6
+236 236 236  7.5% Grey #ececec
+242 242 242  5% Grey #f2f2f2
+249 249 249  2.5% Grey #f9f9f9
+255 255 255  White #ffffff
+
+183 77 134 iwanthue cb10 soft 1
+109 187 96 iwanthue cb10 soft 2
+134 80 166 iwanthue cb10 soft 3
+189 162 58 iwanthue cb10 soft 4
+104 128 216 iwanthue cb10 soft 5
+113 136 58 iwanthue cb10 soft 6
+184 67 78 iwanthue cb10 soft 7
+54 222 230 iwanthue cb10 soft 8
+188 103 57 iwanthue cb10 soft 9
+69 188 141 iwanthue cb10 soft 10

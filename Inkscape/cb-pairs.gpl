@@ -1,0 +1,34 @@
+GIMP Palette
+Name: David Nicols Colourblind pairs
+Columns: 6
+0   0   0  Black #000000
+26  26  26  90% Grey #1a1a1a
+51  51  51  80% Grey #333333
+77  77  77  70% Grey #4d4d4d
+102 102 102  60% Grey #666666
+128 128 128  50% Grey #808080
+153 153 153  40% Grey #999999
+179 179 179  30% Grey #b3b3b3
+204 204 204  20% Grey #cccccc
+230 230 230  10% Grey #e6e6e6
+236 236 236  7.5% Grey #ececec
+242 242 242  5% Grey #f2f2f2
+249 249 249  2.5% Grey #f9f9f9
+255 255 255  White #ffffff
+
+255 194 10 Pair 1a #ffc20a
+12 123 220 Pair 1b #0c7bdc
+153 79 0 Pair 2a
+0 108 209 Pair 2b
+225 190 106 Pair 3a
+64 176 166 Pair 3b
+230 97 0 Pair 4a
+93 58 155 Pair 4b
+26 255 26 Pair 5a
+75 0 146 Pair 5b
+254 254 98 Pair 6a
+211 95 183 Pair 6b
+0 90 181 Pair 7a
+220 50 32 Pair 7b
+26 133 255 Pair 8a
+212 17 89 Pair 8b

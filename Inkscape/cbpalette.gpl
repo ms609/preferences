@@ -1,20 +1,20 @@
 GIMP Palette
 Name: Colourblind + default
 Columns: 27
-0   0   0  Black
-26  26  26  90% Gray
-51  51  51  80% Gray
-77  77  77  70% Gray
-102 102 102  60% Gray
-128 128 128  50% Gray
-153 153 153  40% Gray
-179 179 179  30% Gray
-204 204 204  20% Gray
-230 230 230  10% Gray
-236 236 236  7.5% Gray
-242 242 242  5% Gray
-249 249 249  2.5% Gray
-255 255 255  White
+0   0   0  Black #000000
+26  26  26  90% Grey #1a1a1a
+51  51  51  80% Grey #333333
+77  77  77  70% Grey #4d4d4d
+102 102 102  60% Grey #666666
+128 128 128  50% Grey #808080
+153 153 153  40% Grey #999999
+179 179 179  30% Grey #b3b3b3
+204 204 204  20% Grey #cccccc
+230 230 230  10% Grey #e6e6e6
+236 236 236  7.5% Grey #ececec
+242 242 242  5% Grey #f2f2f2
+249 249 249  2.5% Grey #f9f9f9
+255 255 255  White #ffffff
 
 100 143 255 IBM Blue
 120 94 240 IBM Purple
