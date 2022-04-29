@@ -7,7 +7,4 @@ and select `Toolbar.exportedUI`.
 
 1. Copy [`WORDLIST.DIC`](https://raw.githubusercontent.com/smithlabdurham/dictionary/main/WORDLIST.dic) to `%APPDATA%/Microsoft/UProof`.
 
-1. `regedit` to set registry keys:
-  - `HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Common\SignIn`: New DWORD value `SignInOptions = 3`.
-
 [Migrate other settings](https://superuser.com/questions/543012/how-to-migrate-microsoft-office-settings)
