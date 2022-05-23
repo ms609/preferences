@@ -10,7 +10,7 @@
 // - set it within a user.js file in your profile.
 
 user_pref("extensions.zotero.translators.better-bibtex.skipFields",
-          "abstract,file,isbn,issn,keywords,langid,month,pmc,pmcid,pmid");
+          "abstract,annotation,file,isbn,issn,keywords,langid,month,pmc,pmcid,pmid,shorttitle");
 user_pref("app.update.download.attempts", 0);
 user_pref("app.update.elevate.attempts", 0);
 user_pref("app.update.lastUpdateTime.addon-background-update-timer", 1649327611);
