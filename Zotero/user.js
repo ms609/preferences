@@ -1,5 +1,5 @@
 user_pref("extensions.zotero.translators.better-bibtex.skipFields",
-          "abstract,annotation,copyright,eprint,eprinttype,file,isbn,issn,keywords,langid,month,pmc,pmcid,pmid,shorttitle,urldate");
+          "abstract,annotation,copyright,eprint,eprinttype,file,googlebooks,isbn,issn,keywords,langid,month,pmc,pmcid,pmid,shorttitle,urldate");
 user_pref("extensions.systemAddonSet", "{\"schema\":1,\"addons\":{}}");
 user_pref("extensions.ui.dictionary.hidden", true);
 user_pref("extensions.ui.locale.hidden", true);
