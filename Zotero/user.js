@@ -16,7 +16,7 @@ user_pref("extensions.zotero.recentSaveTargets", "[{\"id\":\"L1\",\"sessionID\":
 user_pref("extensions.zotero.sync.fulltext.enabled", false);
 user_pref("extensions.zotero.translators.better-bibtex.DOIandURL", "doi");
 user_pref("extensions.zotero.translators.better-bibtex.bibtexParticleNoOp", true);
-user_pref("extensions.zotero.translators.better-bibtex.citekeyFormat", "[auth][year]");
+user_pref("extensions.zotero.translators.better-bibtex.citekeyFormat", "auth.alphanum+year+journal.abbr.lower");
 user_pref("extensions.zotero.translators.better-bibtex.keyConflictPolicy", "change");
 user_pref("extensions.zotero.translators.better-bibtex.platform", "win");
 user_pref("extensions.zotero.translators.better-bibtex.quickCopyMode", "pandoc");
