@@ -1,0 +1,27 @@
+GIMP Palette
+Name: 15-color palette for deuteranopia color blindness
+################################################################################
+# 15-color palette for deuteranopia color blindness
+# 18:05:29 Tue 19 May 2020
+# Martin Krzywinski martink@bcgsc.ca
+# Methods and details: http://mkweb.bcgsc.ca/colorblind
+# Color names: http://mkweb.bcgsc.ca/colornames
+################################################################################
+# Main palette colors are N-main with N-alt being (one of many) alternatives
+# that are indistinguishable to deuteranopes.
+################################################################################
+104   2  63 68023F imperial purple, tyrian purple, nightclub, pompadour, ribbon, deep cerise, mulberry, mulberry wood, pansy purple, merlot
+  0 129 105 008169 deep sea, generic viridian, observatory, deep sea, elf green, deep green cyan turquoise, tropical rain forest, tropical rain forest, blue green, elf green
+239   0 150 EF0096 vivid cerise, persian rose, fashion fuchsia, hollywood cerise, neon pink, luminous vivid cerise, shocking pink, deep pink, deep pink, fluorescent pink
+  0 220 181 00DCB5 aquamarine, aqua marine, caribbean green, aqua, eucalyptus, vivid opal, brilliant turquoise, shamrock, shamrock, caribbean green
+255 207 226 FFCFE2 light pink, azalea, classic rose, pale pink, classic rose, pastel pink, pink lace, pig pink, orchid pink, chantilly
+  0  60 134 003C86 flat medium blue, royal blue, bay of many, bondi blue, congress blue, cobalt, elvis, darkish blue, submerge, yale blue
+148   0 230 9400E6 vivid purple, violet, purple, veronica, purple, electric purple, purple, vivid mulberry, vivid purple, vivid violet
+  0 159 250 009FFA azure, luminous vivid cornflower blue, vivid cornflower blue, brilliant azure, bleu de france, dark sky blue, brilliant azure, united nations blue, light brilliant cobalt blue, cornflower
+255 113 253 FF71FD blush pink, shocking pink, ultra pink, pink flamingo, fuchsia pink, light brilliant orchid, pink flamingo, candy pink, light brilliant magenta, light magenta
+124 255 250 7CFFFA light brilliant cyan, electric blue, dark slate grey, very light cyan, very light opal, bright cyan, dark slate grey, brilliant cyan, light brilliant opal, bright light blue
+106   2  19 6A0213 burnt crimson, rosewood, claret, venetian red, dark tan, persian plum, prune, deep amaranth, deep reddish brown, crown of thorns
+  0 134   7 008607 india green, ao, green, office green, web green, green, emerald green, islamic green, forest green, forest green
+246   2  57 F60239 american rose, red, carmine, electric crimson, luminous vivid crimson, neon red, carmine red, scarlet, torch red, tractor red
+  0 227   7 00E307 vivid sap green, vivid emerald green, vivid green, vibrant green, vivid green, vivid harlequin, green, radioactive green, vivid malachite green, vivid pistachio
+255 220  61 FFDC3D gargoyle gas, filmpro lemon yellow, banana yellow, golden dream, bright sun, broom, banana split, golden dream, twentyfourseven, wild thing

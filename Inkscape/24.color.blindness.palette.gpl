@@ -1,0 +1,36 @@
+GIMP Palette
+Name: 24-color palette for deuteranopia color blindness
+################################################################################
+# 24-color palette for deuteranopia color blindness
+# 18:05:40 Tue 19 May 2020
+# Martin Krzywinski martink@bcgsc.ca
+# Methods and details: https://mk.bcgsc.ca/colorblind
+# Color names: https://mk.bcgsc.ca/colornames
+################################################################################
+# Main palette colors are N-main with N-alt being (one of many) alternatives
+# that are indistinguishable to deuteranopes.
+################################################################################
+  0  61  48 003D30 sherwood green, zydeco, sherwood green, bottle green, msu green, everglade, phthalo green, dark green, deep teal, brunswick green
+  0  87  69 005745 filmpro pthalo green, deep turquoise, castleton green, sacramento state green, deep opal, aquamarine, jackpot, evening sea, dark aquamarine, dark spring green
+  0 115  92 00735C tropical rain forest, bingo, watercourse, robin hood, teal green, deep green cyan turquoise, deep sea, generic viridian, bangladesh green, bottle green
+  0 145 117 009175 observatory, elf green, gossamer, paolo veronese green, observatory, mother earth, illuminating emerald, niagara, sea green, gossamer
+  0 175 142 00AF8E jungle green, green blue, jungle green, jeepers creepers, niagara, strong turquoise, dali, mint, mountain meadow, greeny blue
+  0 203 167 00CBA7 dali, aquamarine, shamrock, caribbean green, eucalyptus, shamrock, caribbean green, turquoise, medium aquamarine, mountain meadow
+  0 235 193 00EBC1 aqua marine, aqua, vivid opal, bright teal, aquamarine, vivid turquoise, brilliant turquoise, luminous vivid opal, caribbean green, brilliant aquamarine
+134 255 222 86FFDE light aqua, light turquoise, aquamarine, very light aquamarine, aquamarine, tiffany blue, very light turquoise, light brilliant turquoise, light brilliant opal, pale turquoise
+  0  48 111 00306F submerge, astronaut, deep sapphire, confidante, madison, cool black, bay of many, deep cobalt blue, royal blue, darkish blue
+  0  72 158 00489E elvis, tory blue, strong azure, medium teal blue, sapphire, flat medium blue, royal blue, endeavour, fun blue, cobalt
+  0  95 204 005FCC flat medium blue, royal blue, science blue, sapphire, cerulean blue, medium teal blue, mariner, royal blue, vivid azure, denim
+  0 121 250 0079FA clear blue, deep sky blue, azure, azure radiance, slate blue, luminous vivid azure, lightish blue, cerulean blue, blue, dodger blue
+  0 159 250 009FFA azure, luminous vivid cornflower blue, vivid cornflower blue, brilliant azure, bleu de france, dark sky blue, brilliant azure, united nations blue, light brilliant cobalt blue, cornflower
+  0 194 249 00C2F9 spiro disco ball, vivid sky blue, cyan, bright sky blue, capri, deep sky blue, luminous vivid cerulean, sky blue deep, deep sky blue, vivid cerulean
+  0 229 248 00E5F8 aqua blue, medium turquoise, turquoise, luminous vivid arctic blue, turquoise, light brilliant arctic blue, robin's egg, bright light blue, brilliant arctic blue, brilliant cyan
+124 255 250 7CFFFA light brilliant cyan, electric blue, dark slate grey, very light cyan, very light opal, bright cyan, dark slate grey, brilliant cyan, light brilliant opal, bright light blue
+  0  64   2 004002 forest green, hunter green, dark fern, fern, british racing green, racing green, darkgreen, forrest green, bottle green, crusoe
+  0  90   1 005A01 deep green, deep sap green, deep harlequin, san felix, dark green, deep emerald green, lincoln green, deep green, deep green, dark green
+  0 119   2 007702 ao, green, office green, web green, sap green, napier green, tree green, bilbao, india green, la palma
+  0 149   3 009503 true green, islamic green, green, strong emerald green, india green, strong malachite green, grass green, strong harlequin, emerald green, grassy green
+  0 180   8 00B408 green, strong green, strong sap green, strong emerald green, permanent green, strong harlequin, kelly green, lime green, harlequin green, vivid malachite
+  0 211   2 00D302 green, vibrant green, vivid emerald green, vivid sap green, vivid malachite green, vivid harlequin, vivid green, vivid pistachio, permanent green, green apple
+  0 244   7 00F407 green, radioactive green, electric green, highlighter green, hot green, neon green, luminous vivid emerald green, poison green, vivid green, neon green
+175 255  42 AFFF2A green yellow, lime, lemon green, spring bud, electric lime, lemon lime, green lizard, french lime, yellowgreen, luminous vivid spring bud
