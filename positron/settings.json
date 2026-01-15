@@ -1,0 +1,33 @@
+{
+	"files.associations": {
+		"renv.lock": "json",
+		"*.Rev": "r"
+	},
+	"cmake.configureOnOpen": true,
+	"cmake.pinnedCommands": [
+		"workbench.action.tasks.configureTaskRunner",
+		"workbench.action.tasks.runTask"
+	],
+	"cmake.options.statusBarVisibility": "visible",
+	"cmake.showOptionsMovedNotification": false,
+	"cmake.showConfigureWithDebuggerNotification": false,
+	"workbench.activityBar.location": "top",
+	"terminal.integrated.enableMultiLinePasteWarning": false,
+	"git.autofetch": true,
+	"workbench.startupEditor": "none",
+	"git.confirmSync": false,
+	"gitlens.launchpad.indicator.enabled": false,
+	"git.ignoreRebaseWarning": true,
+	"terminal.integrated.commandsToSkipShell": [
+		"language-julia.interrupt"
+	],
+	"julia.symbolCacheDownload": true,
+	"julia.enableTelemetry": true,
+	"github.copilot.nextEditSuggestions.enabled": true,
+	"workbench.colorTheme": "Default Positron Dark",
+	"editor.rulers": [
+		[80]
+	],
+	"editor.guides.bracketPairs": true,
+	"editor.bracketPairColorization.independentColorPoolPerBracketType": true
+}
