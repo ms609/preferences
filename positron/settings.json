@@ -25,9 +25,7 @@
 	"julia.enableTelemetry": true,
 	"github.copilot.nextEditSuggestions.enabled": true,
 	"workbench.colorTheme": "Default Positron Dark",
-	"editor.rulers": [
-		[80]
-	],
+	"editor.rulers": [80],
 	"editor.guides.bracketPairs": true,
 	"editor.bracketPairColorization.independentColorPoolPerBracketType": true
 }
