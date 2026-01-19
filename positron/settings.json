@@ -4,6 +4,7 @@
 		"*.Rev": "r"
 	},
 	"cmake.configureOnOpen": true,
+	"workbench.keybindings.rstudioKeybindings": true,
 	"cmake.pinnedCommands": [
 		"workbench.action.tasks.configureTaskRunner",
 		"workbench.action.tasks.runTask"
