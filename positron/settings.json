@@ -29,10 +29,11 @@
 	"editor.rulers": [80],
 	"editor.guides.bracketPairs": true,
 	"editor.bracketPairColorization.independentColorPoolPerBracketType": true,
-	"editor.defaultFormatter": "Posit.air-vscode",
 	"editor.fontSize": 12,
-	"editor.formatOnSave": true,
 	"editor.mouseWheelZoom": true,
 	"editor.tabSize": 2,
-	"editor.wordWrap": "wordWrapColumn"
+	"editor.wordWrap": "wordWrapColumn",
+	"editor.formatOnSaveMode": "modifications",
+	"editor.formatOnType": true,
+	"notebook.defaultFormatter": "Posit.air-vscode"
 }
